@@ -1,0 +1,4 @@
+../Core/Src/sht4x_ll.c:3:16:crc8	24	static
+../Core/Src/sht4x_ll.c:15:14:to_temp	16	static
+../Core/Src/sht4x_ll.c:16:14:to_rh	16	static
+../Core/Src/sht4x_ll.c:18:17:SHT4x_ReadSingleShot	56	static

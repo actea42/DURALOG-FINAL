@@ -1,0 +1,11 @@
+../Core/Src/w25q64.c:24:20:CS_L	8	static
+../Core/Src/w25q64.c:25:20:CS_H	8	static
+../Core/Src/w25q64.c:27:6:W25Q64_Bind	24	static
+../Core/Src/w25q64.c:35:6:W25Q64_WaitWhileBusy	24	static
+../Core/Src/w25q64.c:49:6:W25Q64_WriteEnable	24	static
+../Core/Src/w25q64.c:64:6:W25Q64_ReleaseFromDeepPowerDown	16	static
+../Core/Src/w25q64.c:72:6:W25Q64_EnterDeepPowerDown	16	static
+../Core/Src/w25q64.c:80:6:W25Q64_Read	32	static
+../Core/Src/w25q64.c:97:6:W25Q64_PageProgram	40	static
+../Core/Src/w25q64.c:119:6:W25Q64_SectorErase4K	24	static
+../Core/Src/w25q64.c:130:5:W25Q64_ReadJedecID	24	static

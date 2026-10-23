@@ -1,0 +1,4 @@
+../Core/Src/rtc.c:5:12:is_leap	24	static
+../Core/Src/rtc.c:7:12:dim	16	static
+../Core/Src/rtc.c:10:10:rtc_datetime_to_epoch	32	static
+../Core/Src/rtc.c:19:6:RTC_ScheduleNextAlarm_AndStandby	168	static

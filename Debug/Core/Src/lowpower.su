@@ -1,0 +1,2 @@
+../Core/Src/lowpower.c:3:6:SPI1_EnterLowPower	32	static
+../Core/Src/lowpower.c:14:6:Pins_StandbyQuiescent_Config	8	static

@@ -1,0 +1,2 @@
+../Core/Src/i2c_on_demand.c:10:6:I2C1_OnDemand_Init	1
+../Core/Src/i2c_on_demand.c:37:6:I2C1_OnDemand_DeInit	1

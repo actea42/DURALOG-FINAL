@@ -1,0 +1,7 @@
+../Core/Src/usb_service_sm.c:11:12:USB_TxBlocking	32	static
+../Core/Src/usb_service_sm.c:22:13:USB_Write	16	static
+../Core/Src/usb_service_sm.c:31:6:USB_SM_Start	4	static
+../Core/Src/usb_service_sm.c:32:6:USB_SM_Stop	4	static
+../Core/Src/usb_service_sm.c:33:6:USB_SM_IsActive	4	static
+../Core/Src/usb_service_sm.c:35:6:USB_SM_PostCmdLine	24	static
+../Core/Src/usb_service_sm.c:45:6:USB_SM_RunStep	32	static

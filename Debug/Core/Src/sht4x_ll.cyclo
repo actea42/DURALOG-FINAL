@@ -1,0 +1,4 @@
+../Core/Src/sht4x_ll.c:3:16:crc8	4
+../Core/Src/sht4x_ll.c:15:14:to_temp	1
+../Core/Src/sht4x_ll.c:16:14:to_rh	1
+../Core/Src/sht4x_ll.c:18:17:SHT4x_ReadSingleShot	7
